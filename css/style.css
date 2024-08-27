@@ -1,0 +1,30 @@
+*
+{
+margin: 5px;
+}
+.Jose
+{
+    background-color: blue;
+    text-align: center;
+    padding: 400px;
+   
+}
+.cj1
+{
+    background-color: aqua;
+    padding: 30px;
+    border-radius: 100%;
+    border: 10px;
+    border-style: double;
+    border-color: darkmagenta;
+}
+.cj2
+{
+    background-color: chartreuse;
+    padding: 30px;
+
+    border: 10px;
+    border-style: dotted;
+    border-color: deeppink;
+    border-radius: 100%;
+}
